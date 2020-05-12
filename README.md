@@ -116,7 +116,7 @@ Declare a variable called `firstNumber` and assign it the value `5`.
 
 Declare another variable called `secondNumber` and assign it the value `6`.
 
-Use an `if else statement` to determine where `firstNumber` is greater than or equal to `secondNumber`.
+Use an `if/else` statement to determine where `firstNumber` is greater than or equal to `secondNumber`.
 
 If it is, log the string: "FirstNumber is greater than or equal to secondNumber".
 
@@ -130,7 +130,7 @@ Declare a variable called `minimumAge` and assign it the value `10`.
 
 Declare another variable called `userAge` and assign it the value `9`.
 
-Use an `if else statement` to determine where `userAge` is less than `minimumAge`.
+Use an `if/else` statement to determine where `userAge` is less than `minimumAge`.
 
 If it is, log the string: "The user is too young".
 
@@ -144,7 +144,7 @@ Declare a variable called `ageAsString` and assign it the value `"11"`.
 
 Declare another variable called `ageAsNumber` and assign it the value `11`.
 
-Use an `if statement` to determine where `ageAsString` is equal to `ageAsNumber`.
+Use an `if` statement to determine where `ageAsString` is equal to `ageAsNumber`.
 
 If it is, log the string: "These variables are equal".
 
@@ -154,7 +154,7 @@ If it is, log the string: "These variables are equal".
 
 Declare a variable called `animalType` and assign it the value `"hedgehog"`.
 
-Using and `if-else if-else` statement, console log the following based on the value of `animalType`:
+Using an `if/else if/else` statement, console log the following based on the value of `animalType`:
 
 -   if `animalType` is equal to `"elephant"` log: "The animal is large".
 -   if `animalType` is equal to `"hedgehog"` log: "The animal is small".
@@ -197,7 +197,7 @@ var animals = ["dog", "cat", "frog", "pig", "cow"];
 
 ### Question 25
 
-Given the following array of animals, log each animal using a for loop.
+Given the following array of animals, log each animal using a `for` loop.
 
 ```js
 var animals = ["dog", "cat", "frog", "pig", "cow"];
@@ -207,7 +207,7 @@ var animals = ["dog", "cat", "frog", "pig", "cow"];
 
 ### Question 26
 
-Given the following array of numbers, log each number using a for loop.
+Given the following array of numbers, log each number using a `for` loop.
 
 ```js
 var animals = [11, 45, 89, 13];
@@ -217,7 +217,7 @@ var animals = [11, 45, 89, 13];
 
 ### Question 27
 
-Given the following array of mixed values, log each value using a for loop.
+Given the following array of mixed values, log each value using a `for` loop.
 
 ```js
 var animals = [true, "red", 14, "blue", 28, false];
