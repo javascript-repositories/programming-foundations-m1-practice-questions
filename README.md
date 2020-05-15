@@ -1,5 +1,7 @@
 # Programming Foundations Module 1 Practice Questions
 
+## Answers
+
 Answer the first 3 questions in your browser console.
 
 Answer the rest of the questions in a `script.js` file linked to an `index.html` file.
