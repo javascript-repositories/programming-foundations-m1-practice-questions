@@ -210,7 +210,7 @@ var animals = ["dog", "cat", "frog", "pig", "cow"];
 Given the following array of numbers, log each number using a `for` loop.
 
 ```js
-var animals = [11, 45, 89, 13];
+var numbers = [11, 45, 89, 13];
 ```
 
 ---
@@ -220,7 +220,7 @@ var animals = [11, 45, 89, 13];
 Given the following array of mixed values, log each value using a `for` loop.
 
 ```js
-var animals = [true, "red", 14, "blue", 28, false];
+var mixedArray = [true, "red", 14, "blue", 28, false];
 ```
 
 ---
