@@ -1,6 +1,6 @@
 # Programming Foundations Module 1 Practice Questions
 
-## Answers
+## Answers in `js/script.js`
 
 Answer the first 3 questions in your browser console.
 
